@@ -4,4 +4,4 @@
 3.  <code> pop_age_breakdown20102019.csv </code> : population by age from 2010 to 2019
 4.  <code> pop_linear_age_20102021.csv </code> : population grouped to match NYPD datasets
 5.  <code> nyc_income_pop_2019.csv </code>: Household income by zip codes
-6.  <code> ZCTAS2020.csv </code>: population by race and ethnicity by zipcodes and race and ethnicity
+6.  <code> ZCTAS2020.csv </code>: population by race and ethnicity in zipcodes
